@@ -1,0 +1,16 @@
+{
+  "name": "doremi-subscription",
+  "version": "1.0.0",
+  "description": "this project is based on the doremi subscription.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node doremi.js"
+  },
+  "keywords": [],
+  "author": "Rahul Hedau",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
